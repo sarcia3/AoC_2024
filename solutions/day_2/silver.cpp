@@ -1,4 +1,4 @@
-//recostruction
+//reconstruction
 #include "bits/stdc++.h"
 #define int long long
 #define pi pair<long long, long long>
